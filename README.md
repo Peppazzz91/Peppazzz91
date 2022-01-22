@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Peppazzz91
+- 👀 I’m interested in 3d printing, cnc milling, electronics and diy stuff.
+- 🌱 I’m currently working on my diy CNC mill.
